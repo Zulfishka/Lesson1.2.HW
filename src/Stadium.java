@@ -1,0 +1,3 @@
+public enum Stadium {
+    WEMBLEY, EMIRATES, ANFIELD, MINIEMIRATES
+}
